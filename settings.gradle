@@ -1,0 +1,2 @@
+rootProject.name='LibCurl4java'
+include ':app'
